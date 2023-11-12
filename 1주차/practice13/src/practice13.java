@@ -1,5 +1,9 @@
-public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+public class practice13 {
+    public static void main(String[] args){
+        String b = A;
+        System.out.print(b);
+
+        b = "abc";
+        System.out.print(b);
     }
 }
